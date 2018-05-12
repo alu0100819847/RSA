@@ -1,4 +1,5 @@
-function verify(){
+function verify(op){
+  /*
   error.innerHTML = "";
   var v = readInput();
   for(var i in v){
@@ -14,9 +15,9 @@ function verify(){
       error.innerHTML = "α debe ser menor que el numero primo";
     }
   }
-
-
-  dh()
+*/
+  if(op == 0) rsa();
+  else rsaDescf();
 }
 
 

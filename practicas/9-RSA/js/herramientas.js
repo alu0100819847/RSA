@@ -17,11 +17,11 @@ function clean(){
 
 function drawExampleMain(){
   var example = [
-                  ["Numero Primo: ", "Alpha: ", "X<sub>A </sub>", "X<sub>B </sub>"  ],
-                  ["13", "4", "5", "2"],
-                  ["43", "23", "25", "33"],
-                  ["113", "43", "54", "71"],
-                  ["6343", "1481", "1237", "941"]
+                  ["Mensaje: ", "p: ", "q: ", "d: "],
+                  ["MANDA DINEROS", "421", "7", "1619"],
+                  ["AMIGO MIO", "2347", "347", "5"],
+                  ["", "61", "53", "2753"],
+                  ["", "885320963", "238855417", "116402471153538991"]
 
                 ];
   for(var i = 1; i < example.length; i++){

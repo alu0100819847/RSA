@@ -1,7 +1,7 @@
-# Práctica 7: Diffie-Hellman
+# Práctica 9: RSA
 
 ### OBJETIVO
- Implementar el intercambio de claves de Diffie-Hellman.
+ Implementar el cifrado RSA.
 
 
-[Despliegue](https://alu0100819847.github.io/Diffie-Hellman/)
+[Despliegue](https://alu0100819847.github.io/RSA/)
