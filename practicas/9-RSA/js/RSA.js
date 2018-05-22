@@ -93,7 +93,7 @@ function euclidesExt(n,m) {
     x = x1;
     x1 = tx;
     z1 = z;
-    if(x >= 1) z = tz;
+    if(x > 1) z = tz;
     console.log(i+" | "+ x + " | " + z);
   }
   if(z < 0) z = z + xin;
